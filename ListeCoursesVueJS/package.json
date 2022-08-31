@@ -13,7 +13,7 @@
   "dependencies": {
     "bootstrap": "^4.4.1",
     "bootstrap-vue": "^2.2.2",
-    "moment-timezone": "^0.5.27",
+    "moment-timezone": "^0.5.35",
     "rm": "^0.1.8",
     "vue": "^2.6.11",
     "vue-moment": "^4.1.0",
